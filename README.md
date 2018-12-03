@@ -12,6 +12,11 @@ Blank app base on expo, react-native, typescript, mobx.
 - [x] react-navigation 2.18.2
 - [ ] ts-jest 23.6.0
 
+### ScreenShots
+
+![](https://ws3.sinaimg.cn/bmiddle/006tNbRwly1fxtur7ejjjj30u01szgra.jpg)
+![](https://ws3.sinaimg.cn/bmiddle/006tNbRwly1fxtusydb87j30py1cqgrs.jpg)
+
 ### Try it yourself
 
 1. Clone and Install
