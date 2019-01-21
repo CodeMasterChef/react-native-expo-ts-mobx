@@ -20,6 +20,10 @@ interface InterfaceStyle {
 }
 
 export default class HomeScreen extends React.Component {
+  public static navigationOptions = {
+    header: null,
+  };
+
   public render() {
     return (
       <View style={styles.container}>

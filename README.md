@@ -4,13 +4,13 @@ Blank app base on expo, react-native, typescript, mobx.
 
 ### Build with
 
-- [x] expo 31.0.2
+- [x] expo 32.0.0
 - [x] react 16.5.0
 - [x] react-native 0.57.1
-- [x] typescript 3.1.6
+- [x] typescript 3.2.4
 - [x] mobx 5.6.0
-- [x] react-navigation 2.18.2
-- [ ] ts-jest 23.6.0
+- [x] react-navigation 3.0.9
+- [ ] ts-jest 23.10.5
 
 ### ScreenShots
 
